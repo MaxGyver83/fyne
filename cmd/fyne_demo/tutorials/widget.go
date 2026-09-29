@@ -232,7 +232,7 @@ func makeTextTab(_ fyne.Window) fyne.CanvasObject {
 
 ## A Sub Heading
 
-![title](../../theme/icons/fyne.png)
+![title](theme/icons/fyne.png)
 
 ---
 
